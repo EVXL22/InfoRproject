@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Science",
+        "content": "Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe."
+    },
+    {
+        "title": "Technology",
+        "content": "Technology is the sum of techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation."
+    },
+    {
+        "title": "Artificial Intelligence",
+        "content": "Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals."
+    }
+]
